@@ -1,0 +1,5 @@
+package com.lalbandibank.repository;
+
+public class UsersLoginSignupRepository {
+
+}

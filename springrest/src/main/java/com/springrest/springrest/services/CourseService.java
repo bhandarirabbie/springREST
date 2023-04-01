@@ -11,4 +11,7 @@ public interface CourseService {
 	public Courses getCourses(long courseId);
 	
 	public Courses addCourse(Courses course);
+
+	public void deleteCourse(long parseLong);
+	
 }
